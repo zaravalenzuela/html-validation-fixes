@@ -14,6 +14,8 @@ deliverables: '1 HTML file, images'
 - Fix all the validation errors.
 - *Run it through Markbot and make sure it passes all the checks.*
 
+**The HTML validation problems cascade down the code. It’s imperative to fix the top validation error first, then re-validate before trying to fix other things.**
+
 ---
 
 ## Hand in
